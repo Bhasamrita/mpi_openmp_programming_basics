@@ -1,5 +1,3 @@
-%%writefile mpi_programming_problem.cpp
-
 /*Is there life anywhere else in the universe? Are there intelligent civilisations
   anywhere else in the Milky Way Galaxy? These are hyped questions that get asked
   whenever the discussion moves to astronomy and the universe. But the general
