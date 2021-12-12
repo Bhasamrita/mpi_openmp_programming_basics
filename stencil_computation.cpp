@@ -1,5 +1,3 @@
-%%writefile stencil_computation.cpp
-
 #include <iostream>
 #include <cmath>
 #include <ctime>
